@@ -1,0 +1,19 @@
+@font-face{
+    font-family: "font";
+    src: url("./fonts/samim/Samim.eot");
+    src: url("./fonts/samim/Samim.eot#iefix") format("embeded-opentype"),
+         url("./fonts/samim/Samim.woff2") format("woff2"),
+         url("./fonts/samim/Samim.woff") format("woff"),
+         url("./fonts/samim/Samim.ttf") format("truetype");
+}
+body{
+    font-family: "font" !important;
+    direction: rtl;
+    /* height: 100%; */
+}
+/* .containerall {
+    margin-top: 10% !important;
+} */
+/* header{
+    margin-bottom: 10% !important;
+} */
